@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"scrapy.Field"
+			],
+			[
+				"getS",
+				"getSendedKeys()"
+			],
+			[
+				"$co",
+				"$controller\tAngularJS"
+			],
+			[
+				"pfmt",
+				"phpfmt"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"st",
+				"stop〔function〕"
+			],
+			[
+				"au",
+				"authenticate"
+			],
+			[
+				"log",
+				"console.log(message);"
+			],
+			[
+				"s",
+				"sendKey\t(?)"
+			],
+			[
+				"a",
+				"availableKeys\t(?)"
+			],
+			[
+				"guid",
+				"guid〔function〕"
+			],
+			[
+				"http",
+				"http\t(?)"
+			],
+			[
+				"call",
+				"callback〔argument〕"
+			],
+			[
+				"pa",
+				"path.extname(path);"
+			],
+			[
+				"app",
+				"app〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n /$$$$$$$$        /$$                 /$$$$$$$$             /$$\n|__  $$__/       | $$                | $$_____/            | $$\n   | $$  /$$$$$$ | $$$$$$$   /$$$$$$$| $$       /$$   /$$ /$$$$$$    /$$$$$$  /$$$$$$\n   | $$ |____  $$| $$__  $$ /$$_____/| $$$$$   |  $$ /$$/|_  $$_/   /$$__  $$|____  $$\n   | $$  /$$$$$$$| $$  \\ $$|  $$$$$$ | $$__/    \\  $$$$/   | $$    | $$  \\__/ /$$$$$$$\n   | $$ /$$__  $$| $$  | $$ \\____  $$| $$        >$$  $$   | $$ /$$| $$      /$$__  $$\n   | $$|  $$$$$$$| $$$$$$$/ /$$$$$$$/| $$$$$$$$ /$$/\\  $$  |  $$$$/| $$     |  $$$$$$$\n   |__/ \\_______/|_______/ |_______/ |________/|__/  \\__/   \\___/  |__/      \\_______/\n\n\n======================================================================================\n\nMenu format upgraded to version (1.6.0). To pick up these changes, do one of the\nfollowing:\n\n1. If using the override menu, select \"Preferences->Package Settings->TabsExtra->Install/Upgrade Default Override Menu\"\n   from Sublime's menu.\n\n2. If using the default menu, select \"Preferences->Package Settings->TabsExtra->Install/Upgrade TabsExtra Menu\"\n   from the menu\" from Sublime's menu.\n\n======================================================================================\n\nChanges:\n- Add 'Move' command\n",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Unix",
+				"name": "TabsExtra Message",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix",
+				"name": "Find References",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeLinter-php\n-----------------\n\n  SublimeLinter-php 1.1.0\n  ---------------------------\n  \n  This version adds support for declaring per-project linter executable files.\n  \n  {\n      \"SublimeLinter\": {\n          \"linters\": {\n              \"php\": {\n                  \"cmd\": \"/path/to/php\"\n              }\n          }\n      }\n  }\n",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 298.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ty",
+				"TabsExtra: Sticky Tab"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"AngularJS: Delete Cache"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Amend Commit"
+			],
+			[
+				"phpun",
+				"PHPUnit: Run Tests"
+			],
+			[
+				"set sy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"php",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"phpf",
+				"phpfmt: look for .php.tools.ini"
+			],
+			[
+				"phpfmt",
+				"phpfmt: look for .php.tools.ini"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"git status",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mielofon/ci-learning-project"
+	],
+	"file_history":
+	[
+		"/home/mielofon/genCode_php/app/api/build/logs/coverage.txt",
+		"/home/mielofon/genCode_php/app/api/src/Api/Application.php",
+		"/home/mielofon/genCode_php/app/scripts/app.js",
+		"/home/mielofon/genCode_php/app/index.html",
+		"/home/mielofon/genCode_php/app/scripts/controllers/codes.js",
+		"/home/mielofon/genCode_php/app/scripts/controllers/users.js",
+		"/home/mielofon/genCode_php/app/views/login.html",
+		"/home/mielofon/genCode_php/app/views/main.html",
+		"/home/mielofon/genCode_php/app/views/sended.html",
+		"/home/mielofon/genCode_php/app/views/activated.html",
+		"/home/mielofon/genCode_php/app/views/available.html",
+		"/home/mielofon/genCode_php/app/api/src/Api/Model/Codes.php",
+		"/home/mielofon/genCode_php/app/api/src/Api/Model/Users.php",
+		"/home/mielofon/genCode_php/app/api/config/application.config.php",
+		"/home/mielofon/.config/sublime-text-3/Packages/phpfmt/diff_match_patch/python3/diff_match_patch.py",
+		"/home/mielofon/.config/sublime-text-3/Packages/phpfmt/phpfmt.py",
+		"/home/mielofon/.config/sublime-text-3/Packages/phpfmt/php.tools.ini",
+		"/home/mielofon/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/mielofon/.config/sublime-text-3/Installed Packages/Nodejs.sublime-package",
+		"/home/mielofon/.config/sublime-text-3/Packages/phpfmt/message",
+		"/home/mielofon/genCode_php/app/api/vendor/slim/slim/Slim/Http/Request.php",
+		"/home/mielofon/genCode_php/app/api/src/Api/Authenticate.php",
+		"/home/mielofon/GenCode/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/home/mielofon/learnyounode/learnyounode.sublime-project",
+		"/home/mielofon/testYoApp/server/config/mymodule.js",
+		"/home/mielofon/testYoApp/server/config/programm.js",
+		"/home/mielofon/chirp/module-2/readme.html",
+		"/home/mielofon/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mielofon/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"server",
+			"serve",
+			"merge",
+			"diff_main",
+			"#/lo",
+			"initConfig",
+			"sass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1248,
+								1248
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"default_dir": "/home/mielofon/ci-learning-project",
+							"font_face": "Courier New",
+							"function_name_status_row": 26,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/home/mielofon/ci-learning-project",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"output.nodejs":
+	{
+		"height": 124.0
+	},
+	"output.phpunit":
+	{
+		"height": 313.0
+	},
+	"pinned_build_system": "",
+	"project": "ci-learning-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
